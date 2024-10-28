@@ -25,7 +25,7 @@ else{
 }
 // o/p:
 // PS C:\java script> node switch.js
-// can vote
+// canEnterClub
 // **********************************************************************
 var age=70;
 var isMember=false
